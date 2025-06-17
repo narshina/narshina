@@ -8,5 +8,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-/skillicons.dev/icons?i=javascript,html,css,bootstrap,mysql,c,git,vscode,react,mongodb,nodejs,tailwindcss,reduxjs,expressjs,python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,mysql,c,git,vscode,react,mongodb,nodejs,tailwindcss,reduxjs,expressjs,python" />
 </p>
